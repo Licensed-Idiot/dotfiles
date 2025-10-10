@@ -2,7 +2,7 @@
 <img src="https://github.com/WillPower3309/swayfx/blob/master/assets/swayfx_logo.svg" width="256" alt="swayfx logo">
 <p>My customized SwayFX-Gruvbox themed dotfile configurations & scripts</p>
 <a href='#'><img src="https://img.shields.io/badge/Sway-Dotfiles-_%3F?style=flat-square&logo=wayland&logoColor=b16286&labelColor=282828&color=b16286"/></a>
-<a href='#'><img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square&labelColor=282828&color=458588"></img></a>
+<a href='#'><img src="https://img.shields.io/badge/Maintained%3F-No-green.svg?style=flat-square&labelColor=282828&color=458588"></img></a>
 </div>
 
 ---
